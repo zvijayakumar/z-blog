@@ -1,0 +1,22 @@
+{
+  "intro": "Bonjour !",
+  "heroPhoto": {
+    "src": "../../images/lego-dummy.png",
+    "alt": "My Photo"
+  },
+  "image": {
+    "src": "../../images/waving-hand.png",
+    "alt": "Waving Hand Emoji"
+  },
+  "title": "I'm a Vijayakumar Z or Just call me 'Z' ",
+  "subtitle": {
+    "prefix": "I do Analytics and Data related stuffs ",
+    "highlight": "for you",
+    "suffix": "."
+  },
+  "description": "Data Analytics + Data Engineering = Analytical Engineering",
+  "socialProfiles": {
+    "from": ["LinkedIn","Github", "Mail"],
+    "showIcons": false
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "interests": [
+    {
+      "label": "PostgreSQL",
+      "image": {
+        "src": "../../images/postgres.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Python",
+      "image": {
+        "src": "../../images/python.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Tableau",
+      "image": {
+        "src": "../../images/tableau.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Airflow",
+      "image": {
+        "src": "../../images/airflow.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "AWS",
+      "image": {
+        "src": "../../images/aws.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Linux",
+      "image": {
+        "src": "../../images/linux.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Apache Superset",
+      "image": {
+        "src": "../../images/superset.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Open Source",
+      "image": {
+        "src": "../../images/opensource.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Redshift",
+      "image": {
+        "src": "../../images/redshift.png",
+        "alt": ""
+      }
+    }
+    ,
+    {
+      "label": "Data Analysis",
+      "image": {
+        "src": "../../images/analysis.png",
+        "alt": ""
+      }
+    }
+  ],
+  "button": {
+    "visible": true,
+    "label": "+ Load More",
+    "initiallyShownInterests": 5
+  }
+}
