@@ -1,6 +1,6 @@
 module.exports = {
  
-  pathPrefix: "/zvijayakumar.github.io",
+  pathPrefix: "/z-blog",
   plugins: [
     {
       resolve: "gatsby-theme-portfolio-minimal",
